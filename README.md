@@ -1,4 +1,5 @@
 # Splashy  
+**Programming Languages**: **C++** 69.7% **Python** 27.8% **C** 2.5%
 ### !! ORIGINAL REPOSITORY "https://github.com/d-graz/Splashy.git" !!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5fed4ba-afbe-40ae-9c03-79528b048abe" />
@@ -7,9 +8,6 @@
 
 *"Splashy is a penguin shaped robot that helps you in refilling your water bottle"*
 - Politecnico di Milan, Robotics \& Design course, A.Y. 2023/2024
-
-
-
 
 
 <div align="center">
@@ -48,7 +46,7 @@ If you plan to recreate this project:
 
 From left to rigth:
 - Gianluca Miglietta (Automation Engineer)
-- Davide Grazzani    (me, Computer Science Engineer)
+- Davide Grazzani    (Computer Science Engineer)
 - Sofia Maria Ciccia (School of Design and Engineering)
 - Enrico Virgili     (School of Design and Engineering)
 
