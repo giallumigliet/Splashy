@@ -1,4 +1,4 @@
-# Splashy
+# Splashy  !!ORIGINAL REPOSITORY "https://github.com/d-graz/Splashy.git"!!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5fed4ba-afbe-40ae-9c03-79528b048abe" />
 </p>
