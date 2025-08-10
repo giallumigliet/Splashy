@@ -1,10 +1,8 @@
 # 🐧💧Splashy  
-**Programming Languages**: **C++** 69.7% **Python** 27.8% **C** 2.5%
+**!! ORIGINAL REPOSITORY "https://github.com/d-graz/Splashy.git" !!**\
+<img src="https://github.com/user-attachments/assets/f5fed4ba-afbe-40ae-9c03-79528b048abe" /> 
+<img width="287" height="164" alt="Screenshot 2025-08-10 131808" src="https://github.com/user-attachments/assets/9502a5a2-fda5-41fc-8698-a5a84ad0ecad" />
 
-### !! ORIGINAL REPOSITORY "https://github.com/d-graz/Splashy.git" !!
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f5fed4ba-afbe-40ae-9c03-79528b048abe" />
-</p>
 
 
 *"Splashy is a penguin shaped robot that helps you in refilling your water bottle"*
