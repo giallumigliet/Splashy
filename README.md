@@ -1,5 +1,6 @@
-# Splashy  
+# 🐧💧Splashy  
 **Programming Languages**: **C++** 69.7% **Python** 27.8% **C** 2.5%
+
 ### !! ORIGINAL REPOSITORY "https://github.com/d-graz/Splashy.git" !!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5fed4ba-afbe-40ae-9c03-79528b048abe" />
